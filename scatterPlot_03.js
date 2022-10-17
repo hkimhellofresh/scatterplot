@@ -68,8 +68,8 @@
         .append('svg:image')
         // .attr('x', -10)
         .attr('y', -20)
-        .attr('width', 50)
-        .attr('height', 50)
+        .attr('width', 40)
+        .attr('height', 40)
         // .attr('transform', (d) => `rotate(30)`)
         .call(iconSvg),
         (update) =>
